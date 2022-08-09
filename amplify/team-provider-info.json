@@ -36,7 +36,12 @@
       "function": {
         "newfeaturefunction": {
           "deploymentBucketName": "amplify-test-dev-130032-deployment",
-          "s3Key": "amplify-builds/newfeaturefunction-4d63473642747a484179-build.zip"
+          "s3Key": "amplify-builds/newfeaturefunction-4a2f5057667a4477647a-build.zip"
+        },
+        "newfeature2": {
+          "exampleEnvVar": "1234",
+          "deploymentBucketName": "amplify-test-dev-130032-deployment",
+          "s3Key": "amplify-builds/newfeature2-71543946326538763630-build.zip"
         }
       }
     }
