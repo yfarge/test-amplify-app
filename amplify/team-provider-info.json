@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "testdf2860ca": {}
+      },
+      "function": {
+        "newfeaturefunction": {
+          "deploymentBucketName": "amplify-test-prod-125430-deployment",
+          "s3Key": "amplify-builds/newfeaturefunction-4a2f5057667a4477647a-build.zip"
+        }
       }
     }
   },
