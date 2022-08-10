@@ -23,6 +23,11 @@
         "mergeFunctionTest": {
           "deploymentBucketName": "amplify-test-prod-125430-deployment",
           "s3Key": "amplify-builds/mergeFunctionTest-6767786654506970317a-build.zip"
+        },
+        "mergeFunctionWithEnvironmentVariables": {
+          "mergeEnvTest": "12341234",
+          "deploymentBucketName": "amplify-test-prod-125430-deployment",
+          "s3Key": "amplify-builds/mergeFunctionWithEnvironmentVariables-623668624a7955345a57-build.zip"
         }
       }
     }
