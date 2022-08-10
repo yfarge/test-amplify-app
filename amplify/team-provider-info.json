@@ -22,5 +22,26 @@
         }
       }
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-test-dev-142048-authRole",
+      "UnauthRoleArn": "arn:aws:iam::526963550708:role/amplify-test-dev-142048-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::526963550708:role/amplify-test-dev-142048-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-test-dev-142048-deployment",
+      "UnauthRoleName": "amplify-test-dev-142048-unauthRole",
+      "StackName": "amplify-test-dev-142048",
+      "StackId": "arn:aws:cloudformation:us-east-1:526963550708:stack/amplify-test-dev-142048/8b060850-18e1-11ed-aa5c-0e34049355e7",
+      "AmplifyAppId": "d21pjt10xlx7is"
+    },
+    "categories": {
+      "auth": {
+        "testdf2860ca": {}
+      },
+      "function": {
+        "newfeaturefunction": {}
+      }
+    }
   }
 }
