@@ -43,6 +43,10 @@
         "newfeaturefunction": {
           "deploymentBucketName": "amplify-test-dev-142048-deployment",
           "s3Key": "amplify-builds/newfeaturefunction-6953707a635737646d42-build.zip"
+        },
+        "mergeFunctionTest": {
+          "deploymentBucketName": "amplify-test-dev-142048-deployment",
+          "s3Key": "amplify-builds/mergeFunctionTest-6767786654506970317a-build.zip"
         }
       }
     }
