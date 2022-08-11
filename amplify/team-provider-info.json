@@ -57,6 +57,12 @@
           "deploymentBucketName": "amplify-test-dev-142048-deployment",
           "s3Key": "amplify-builds/itemCRUD-756d6e4944756b445779-build.zip"
         }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d21pjt10xlx7is",
+          "type": "cicd"
+        }
       }
     }
   }
