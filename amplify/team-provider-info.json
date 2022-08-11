@@ -56,6 +56,11 @@
         "itemCRUD": {
           "deploymentBucketName": "amplify-test-dev-142048-deployment",
           "s3Key": "amplify-builds/itemCRUD-756d6e4944756b445779-build.zip"
+        },
+        "publishTestFunction": {
+          "publishEnvTestVar": "12341234",
+          "deploymentBucketName": "amplify-test-dev-142048-deployment",
+          "s3Key": "amplify-builds/publishTestFunction-634f464a7a47576c6879-build.zip"
         }
       },
       "hosting": {
